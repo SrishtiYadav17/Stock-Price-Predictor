@@ -1,2 +1,3 @@
 # Stock-Price-Predictor
-Uses Neural Networks to predict stock prices based on past data.
+Predicts Stock Prices based on previous data trends.
+Code has been written in Python 3 notebook in Google Colaboratory.
